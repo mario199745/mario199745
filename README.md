@@ -30,7 +30,7 @@
 ## Connect with me  
 <p align="center">
   You can visit my social media accounts, <b>read my blog posts</b>, watch my videos and learn more about me through the site. Don't forget to visit my social media accounts below to get to know me. <br>
-🕸️ <a href="https://iremkomurcu.com/">iremkomurcu.com</a> 🕸️
+
 
 </p>  
 <br>
@@ -49,7 +49,7 @@
 </a> &nbsp;
 
 <a href="https://twitter.com/Mario251997" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> &nbsp;
 </p>  
   
