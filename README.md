@@ -1,7 +1,11 @@
 
 ### Welcome to my profile 🌏🛰
 
-Hello, I'm Mario Caceres, and I want to talk to you a little bit about me: 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Mario+Caceres=true&size=25">
+  </a>
+</h1>
 
 >Geospatial Data Science | GIS | Remote Sensing | Science Communication.
 
