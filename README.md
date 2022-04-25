@@ -20,11 +20,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Maintenance Your Windows Machine Like a Pro](https://blog.warengonzaga.com/maintenance-your-windows-machine-like-a-pro)
-- [7 Awesome: Free Websites to Learn Web3](https://blog.warengonzaga.com/7-awesome-free-websites-to-learn-web3)
-- [7 Awesome: Web Animation Libraries and Frameworks](https://blog.warengonzaga.com/7-awesome-web-animation-libraries-and-frameworks)
-- [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
-- [The Perfect Domain Name for your JavaScript Library or Framework](https://blog.warengonzaga.com/the-perfect-domain-name-for-your-javascript-library-or-framework)
+- [Interactuando con Google Earth Engine en R 🌍🛰](https://www.linkedin.com/pulse/interactuando-con-google-earth-engine-en-r-caceres-reyna/)
+- [¿Qué son los fondos ambientales?](https://www.linkedin.com/pulse/qu%C3%A9-son-los-fondos-ambientales-mario-fernando-caceres-reyna/)
+- [Extensiones de Google Earth Engine](https://www.linkedin.com/pulse/extensiones-de-google-earth-engine-mario-fernando-caceres-reyna/)
 <!-- BLOG-POST-LIST:END -->
 
 
