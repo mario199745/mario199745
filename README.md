@@ -27,10 +27,33 @@
 
 
 
-`<💼 LinkedIn>` : <https://www.linkedin.com/in/mariocaceres25/>
+## Connect with me  
+<p align="center">
+  You can visit my social media accounts, <b>read my blog posts</b>, watch my videos and learn more about me through the site. Don't forget to visit my social media accounts below to get to know me. <br>
+🕸️ <a href="https://iremkomurcu.com/">iremkomurcu.com</a> 🕸️
 
-`<😃 Facebook>` : <https://www.facebook.com/mariocaceres25>
+</p>  
+<br>
 
+<p align="center">
+<a href="https://twitter.com/iremkomurcu" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> &nbsp;
+
+<a href="https://www.facebook.com/mariocaceres25" target="_blank">
+<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a> &nbsp;
+
+<a href="https://linkedin.com/in/iremkomurcu" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> &nbsp;
+
+<a href="https://twitter.com/Mario251997" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> &nbsp;
+</p>  
+  
+</div>  
 
 
 
