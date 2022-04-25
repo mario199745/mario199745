@@ -21,8 +21,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Interactuando con Google Earth Engine en R 🌍🛰](https://www.linkedin.com/pulse/interactuando-con-google-earth-engine-en-r-caceres-reyna/)
-- [¿Qué son los fondos ambientales?](https://www.linkedin.com/pulse/qu%C3%A9-son-los-fondos-ambientales-mario-fernando-caceres-reyna/)
-- [Extensiones de Google Earth Engine](https://www.linkedin.com/pulse/extensiones-de-google-earth-engine-mario-fernando-caceres-reyna/)
+- [¿Qué son los fondos ambientales🌳?](https://www.linkedin.com/pulse/qu%C3%A9-son-los-fondos-ambientales-mario-fernando-caceres-reyna/)
+- [Extensiones de Google Earth Engine🌏](https://www.linkedin.com/pulse/extensiones-de-google-earth-engine-mario-fernando-caceres-reyna/)
 <!-- BLOG-POST-LIST:END -->
 
 
