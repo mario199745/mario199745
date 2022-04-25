@@ -23,11 +23,12 @@ Hello, I'm Mario Caceres, and I want to talk to you a little bit about me:
 
 `<😃 Facebook>` : <https://www.facebook.com/mariocaceres25>
 
-
-
 <p align="center">
-<iframe src="https://giphy.com/embed/l3vRfNA1p0rvhMSvS" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/new-text-l3vRfNA1p0rvhMSvS">via GIPHY</a></p>
+<img src="https://giphy.com/embed/l3vRfNA1p0rvhMSvS" width="480" height="192" frameBorder="0">
 </p>
+
+
+
 
 
 <!--
