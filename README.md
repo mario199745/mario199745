@@ -24,7 +24,7 @@ Hello, I'm Mario Caceres, and I want to talk to you a little bit about me:
 `<😃 Facebook>` : <https://www.facebook.com/mariocaceres25>
 
 <p align="center">
-<img src="https://giphy.com/embed/l3vRfNA1p0rvhMSvS" width="480" height="192" frameBorder="0">
+<iframe src="https://giphy.com/embed/l3vRfNA1p0rvhMSvS" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScree>
 </p>
 
 
