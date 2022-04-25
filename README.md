@@ -1,5 +1,5 @@
 
-### Welcome to my profile 👋
+### Welcome to my profile 🌏🛰
 
 Hello, I'm Mario Caceres, and I want to talk to you a little bit about me: 
 
