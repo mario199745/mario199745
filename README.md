@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-###  Connect with me  
+## Connect with me  
 <p align="center">
   You can visit my social media accounts, <b>read my blog posts</b>, watch my videos and learn more about me through the site. Don't forget to visit my social media accounts below to get to know me. <br>
 
