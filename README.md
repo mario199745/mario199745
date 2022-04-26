@@ -53,8 +53,16 @@
 
 
 
-![giphy (1)](https://user-images.githubusercontent.com/55163339/165380195-6d51eb8f-a055-43d6-8ebb-54615b643f68.gif)
 
+
+<hr>
+
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://user-images.githubusercontent.com/55163339/165382309-fd79e41d-a311-4506-ad84-b5fe9fe90a8d.gif" >
+</div>
+</div>
 
 
 <!--
